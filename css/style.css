@@ -489,6 +489,7 @@ ol {
 
 .hs-item .hs-text {
 	text-align: center;
+	align-items: center;
 }
 
 .hs-item .hs-text h4 {
@@ -498,6 +499,19 @@ ol {
 }
 .next-match {
 	color: #fff;
+}
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	align-items: center;
+}
+
+#demo {
+    font-size: 30px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    align-items: center;
 }
 .hs-item .hs-text h2 {
 	font-size: 48px;
