@@ -496,7 +496,9 @@ ol {
 	margin-bottom: 25px;
 	font-size: 30px;
 }
-
+.next-match {
+	color: #fff;
+}
 .hs-item .hs-text h2 {
 	font-size: 48px;
 	color: #ffffff;
