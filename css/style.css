@@ -175,7 +175,9 @@ ol {
 .btn-style {
 	align-items: center;
 }
-
+.player-name {
+	color: #000;
+}
 /* Preloder */
 
 #preloder {
