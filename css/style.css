@@ -1021,6 +1021,16 @@ ul {
 	background: #1eee78;
 }
 
+.news-item.popular-item .ni-tag.rugby {
+	background: #24252f;
+}
+.news-item.popular-item .ni-tag.volley {
+	background: #1eee78;
+}
+.news-item.popular-item .ni-tag.volley {
+	background: #1eee78;
+}
+
 .news-item.popular-item .ni-text {
 	padding-top: 0;
 	position: absolute;
