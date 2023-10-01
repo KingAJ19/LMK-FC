@@ -1017,6 +1017,10 @@ ul {
 	background: #d11313;
 }
 
+.news-item.popular-item .ni-tag.hockey {
+	background: #d11313;
+}
+
 .news-item.popular-item .ni-text {
 	padding-top: 0;
 	position: absolute;
