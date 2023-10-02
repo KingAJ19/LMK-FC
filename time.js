@@ -52,7 +52,4 @@ var x = setInterval(function () {
 
 // TABS
 
-$('#myTab a').on('click', function (e) {
-  e.preventDefault()
-  $(this).tab('show')
-})
+// $('#myTab a[href="#gk"]').tab('show')
