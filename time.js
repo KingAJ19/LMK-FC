@@ -47,3 +47,12 @@ var x = setInterval(function () {
     document.getElementById("demo").innerHTML = "TBD";
   }
 }, 1000);  
+
+
+
+// TABS
+
+$('#myTab a').on('click', function (e) {
+  e.preventDefault()
+  $(this).tab('show')
+})
