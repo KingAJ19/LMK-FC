@@ -16,7 +16,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   }
   #myImg1:hover {opacity: 0.7;}
 
-  /* Elan */
+  /* Lyndon */
 #myImg2 {
     border-radius: 5px;
     cursor: pointer;
@@ -24,6 +24,13 @@ body {font-family: Arial, Helvetica, sans-serif;}
   }
   #myImg2:hover {opacity: 0.7;}
 
+ /* Lyndon */
+ #myImg3 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg3:hover {opacity: 0.7;}
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -134,6 +141,24 @@ body {font-family: Arial, Helvetica, sans-serif;}
   
   .close2:hover,
   .close2:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  /* Mo */
+.close3 {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close3:hover,
+  .close3:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
