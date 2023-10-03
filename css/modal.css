@@ -72,6 +72,14 @@ body {font-family: Arial, Helvetica, sans-serif;}
   }
   #myImg8:hover {opacity: 0.7;}
 
+   /* Rynell */
+   #myImg9 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg9:hover {opacity: 0.7;}
+
 
 /* The Modal (background) */
 .modal {
@@ -291,6 +299,24 @@ body {font-family: Arial, Helvetica, sans-serif;}
   
   .close8:hover,
   .close8:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  /* Rynell */
+  .close9 {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close9:hover,
+  .close9:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
