@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/modal.css" type="text/css">
 </head>
 
 <body>
@@ -232,7 +233,14 @@
                                 <div class="club-tab-content">
                                     <div class="ct-item">
                                         <div class="ci-text">
-                                            <img src="img/club/blank.png" alt="Anele Sokwane">
+                                            <img src="img/club/blank.png" id="myImg" alt="Anele Sokwane">
+                                            <!-- The Modal -->
+                                            <div id="myModal" class="modal">
+                                                <span class="close">&times;</span>
+                                                <img class="modal-content" id="img01">
+                                                <div id="caption"></div>
+                                            </div>
+                                            <!-- End Of Modal -->
                                             <h5>54. Anele Sokwane</h5>
                                         </div>
                                         <div class="ci-name">Goalkeeper</div>
@@ -429,7 +437,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab-pane" id="for" role="tabpanel">
+                            <div class="tab-pane" id="gk" role="tabpanel">
                                 <div class="club-tab-content">
                                     <div class="ct-item">
                                         <div class="ci-text">
@@ -567,13 +575,14 @@
     <!-- Search model end -->
 
     <!-- Js Plugins -->
+    <script src="js/modal.js"></script>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/jquery.slicknav.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/main.js"></script>
-    <script src="time.js"></script>
+    
 </body>
 
 </html>

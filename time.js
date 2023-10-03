@@ -48,8 +48,3 @@ var x = setInterval(function () {
   }
 }, 1000);  
 
-
-
-// TABS
-
-// $('#myTab a[href="#gk"]').tab('show')
