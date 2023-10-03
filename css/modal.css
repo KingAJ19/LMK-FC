@@ -64,6 +64,14 @@ body {font-family: Arial, Helvetica, sans-serif;}
   }
   #myImg7:hover {opacity: 0.7;}
 
+  /* Matthew */
+  #myImg8 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg8:hover {opacity: 0.7;}
+
 
 /* The Modal (background) */
 .modal {
@@ -265,6 +273,24 @@ body {font-family: Arial, Helvetica, sans-serif;}
   
   .close7:hover,
   .close7:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  /* Matthew */
+  .close8 {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close8:hover,
+  .close8:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
