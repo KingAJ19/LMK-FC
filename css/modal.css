@@ -80,6 +80,126 @@ body {font-family: Arial, Helvetica, sans-serif;}
   }
   #myImg9:hover {opacity: 0.7;}
 
+  /* Tumi */
+  #myImg10 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg10:hover {opacity: 0.7;}
+
+  /* Basla */
+  #myImg11 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg11:hover {opacity: 0.7;}
+
+  /* Ethan */
+  #myImg12 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg12:hover {opacity: 0.7;}
+
+  /* Jordan */
+  #myImg13 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg13:hover {opacity: 0.7;}
+
+  /* Nahum */
+  #myImg14 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg14:hover {opacity: 0.7;}
+
+  /* Nathan */
+  #myImg15 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg15:hover {opacity: 0.7;}
+
+  /* Rynell */
+  #myImg16 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg16:hover {opacity: 0.7;}
+
+  /* Kirwan */
+  #myImg17 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg17:hover {opacity: 0.7;}
+
+  /* Cullen */
+  #myImg18 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg18:hover {opacity: 0.7;}
+
+  /* Luke */
+  #myImg19 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg19:hover {opacity: 0.7;}
+
+  /* Matthew S */
+  #myImg20 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg20:hover {opacity: 0.7;}
+
+  /* Dillon */
+  #myImg21 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg21:hover {opacity: 0.7;}
+
+  /* Leighton */
+  #myImg22 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg22:hover {opacity: 0.7;}
+
+  /* Adrian */
+  #myImg23 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg23:hover {opacity: 0.7;}
+
+  /* Liam */
+  #myImg24 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg24:hover {opacity: 0.7;}
+
 
 /* The Modal (background) */
 .modal {
