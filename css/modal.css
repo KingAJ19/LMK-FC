@@ -24,13 +24,23 @@ body {font-family: Arial, Helvetica, sans-serif;}
   }
   #myImg2:hover {opacity: 0.7;}
 
- /* Lyndon */
+ /* Mo */
  #myImg3 {
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
   }
   #myImg3:hover {opacity: 0.7;}
+
+   /* Calvin */
+ #myImg4 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg4:hover {opacity: 0.7;}
+
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -159,6 +169,24 @@ body {font-family: Arial, Helvetica, sans-serif;}
   
   .close3:hover,
   .close3:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  /* Calvin */
+.close4 {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close4:hover,
+  .close4:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
