@@ -48,6 +48,14 @@ body {font-family: Arial, Helvetica, sans-serif;}
   }
   #myImg5:hover {opacity: 0.7;}
 
+     /* Jesse */
+ #myImg6 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #myImg6:hover {opacity: 0.7;}
+
 
 /* The Modal (background) */
 .modal {
@@ -213,6 +221,24 @@ body {font-family: Arial, Helvetica, sans-serif;}
   
   .close5:hover,
   .close5:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+   /* Jesse */
+   .close6 {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close6:hover,
+  .close6:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
