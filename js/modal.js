@@ -1,3 +1,4 @@
+// ANELE
 var modal = document.getElementById("myModal");
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
@@ -18,6 +19,8 @@ span.onclick = function() {
   modal.style.display = "none";
 }
 
+
+// ELAN
 var modal = document.getElementById("myModal1");
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
