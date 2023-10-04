@@ -63,6 +63,7 @@ textarea:focus {
 	outline: none;
 }
 
+/* PAGINATION */
 .pagination {
 	display: inline-block;
   }
