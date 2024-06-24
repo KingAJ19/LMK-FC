@@ -12,6 +12,11 @@
     <link rel="icon" type="image/png" href="/img/icons/home.png">   
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="css/3dslider.css" />
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
  
     <!-- Css Styles --> 
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -112,6 +117,28 @@
                 </div>
             </div>
         </div>
+        <style>
+                .alert {
+                padding: 20px;
+                background-color: #f44336;
+                color: white;
+                }
+
+                .closebtn {
+                margin-left: 15px;
+                color: white;
+                font-weight: bold;
+                float: right;
+                font-size: 22px;
+                line-height: 20px;
+                cursor: pointer;
+                transition: 0.3s;
+                }
+
+                .closebtn:hover {
+                color: black;
+            }
+       </style>
     </header>
     <!-- Header End -->
 
@@ -301,6 +328,10 @@
                 <div class="col-lg-12 p-0">
                     <div class="section-title">
                         <h3>The <span>Team</span></h3>
+                    </div>
+                    <div class="alert">
+                        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+                        <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
                     </div>
                 </div>
             </div>
